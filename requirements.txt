@@ -1,0 +1,6 @@
+gunicorn
+flask
+numpy
+tensorflow
+keras
+os
